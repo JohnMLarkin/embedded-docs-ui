@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+   "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102px" height="95px">
+   <g id="cvpage1_top" width="102px" height="95px" transform="translate(0,0)">
+      <rect x="0.5px" y="0.5px" width="100.8px" height="93.6px" fill="#ECDD8B" fill-rule="nonzero" stroke="#ECDD8B" />
+      <line x1="57.517px" y1="16.518px" x2="57.517px" y2="41.174px" fill="none" stroke="#5E81AC" stroke-width="5px" stroke-miterlimit="14.336" />
+      <line x1="32.376px" y1="14.718px" x2="60.002px" y2="14.718px" fill="none" stroke="#5E81AC" stroke-width="5px" stroke-miterlimit="14.336" />
+      <line x1="42.891px" y1="14.718px" x2="14.091px" y2="14.718px" fill="none" stroke="#2E3440" stroke-width="7px" stroke-miterlimit="14.336" />
+      <path d="M 19.911 14.718 C 19.911 17.698 17.491 20.118 14.511 20.118 C 11.53 20.118 9.111 17.698 9.111 14.718 C 9.111 11.737 11.53 9.318 14.511 9.318 C 17.491 9.318 19.911 11.737 19.911 14.718 " fill="#2E3440" fill-rule="evenodd" stroke="none" />
+      <path d="M 46.491 14.718 C 46.491 17.698 44.071 20.118 41.091 20.118 C 38.11 20.118 35.691 17.698 35.691 14.718 C 35.691 11.737 38.11 9.318 41.091 9.318 C 44.071 9.318 46.491 11.737 46.491 14.718 " fill="#2E3440" fill-rule="evenodd" stroke="none" />
+      <line x1="43.137px" y1="59.718px" x2="14.337px" y2="59.718px" fill="none" stroke="#2E3440" stroke-width="7px" stroke-miterlimit="14.336" />
+      <line x1="35.937px" y1="38.118px" x2="14.337px" y2="38.118px" fill="none" stroke="#2E3440" stroke-width="7px" stroke-miterlimit="14.336" />
+      <line x1="14.337px" y1="16.518px" x2="14.337px" y2="59.718px" fill="none" stroke="#2E3440" stroke-width="7px" stroke-miterlimit="14.336" />
+      <path d="M 19.911 59.718 C 19.911 62.698 17.491 65.118 14.511 65.118 C 11.53 65.118 9.111 62.698 9.111 59.718 C 9.111 56.737 11.53 54.318 14.511 54.318 C 17.491 54.318 19.911 56.737 19.911 59.718 " fill="#2E3440" fill-rule="evenodd" stroke="none" />
+      <path d="M 46.491 59.718 C 46.491 62.698 44.071 65.118 41.091 65.118 C 38.11 65.118 35.691 62.698 35.691 59.718 C 35.691 56.737 38.11 54.318 41.091 54.318 C 44.071 54.318 46.491 56.737 46.491 59.718 " fill="#2E3440" fill-rule="evenodd" stroke="none" />
+      <path d="M 57.69 66.983 C 57.69 75.151 64.322 81.782 72.49 81.782 C 80.658 81.782 87.289 75.151 87.289 66.983 " fill="none" stroke="#2E3440" stroke-width="7px" stroke-miterlimit="14.336" />
+      <line x1="57.69px" y1="67.563px" x2="57.69px" y2="42.382px" fill="none" stroke="#2E3440" stroke-width="7px" stroke-miterlimit="14.336" />
+      <line x1="87.289px" y1="67.563px" x2="87.289px" y2="42.382px" fill="none" stroke="#2E3440" stroke-width="7px" stroke-miterlimit="14.336" />
+      <path d="M 63.09 42.382 C 63.09 45.363 60.671 47.782 57.69 47.782 C 54.71 47.782 52.29 45.363 52.29 42.382 C 52.29 39.402 54.71 36.982 57.69 36.982 C 60.671 36.982 63.09 39.402 63.09 42.382 " fill="#2E3440" fill-rule="evenodd" stroke="none" />
+      <path d="M 92.689 42.382 C 92.689 45.363 90.27 47.782 87.289 47.782 C 84.309 47.782 81.889 45.363 81.889 42.382 C 81.889 39.402 84.309 36.982 87.289 36.982 C 90.27 36.982 92.689 39.402 92.689 42.382 " fill="#2E3440" fill-rule="evenodd" stroke="none" />
+   </g>
+</svg>

@@ -50,7 +50,7 @@ body {
 .navbar-brand .navbar-item.title {
   align-self: center;
   color: var(--navbar-font-color);
-  font-family: "Comfortaa", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   font-size: 1rem;
   line-height: 1;
   position: relative;

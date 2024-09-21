@@ -1,6 +1,5 @@
 :root {
   /* colors */
-  --color-brand-primary: #e40046;
   --color-white: #fff;
   --color-smoke-10: #fefefe;
   --color-smoke-30: #fafafa;
@@ -18,6 +17,36 @@
   --color-jet-70: #222;
   --color-jet-80: #191919;
   --color-black: #000;
+  --color-nord0: #2e3440;
+  --color-nord1: #3b4252;
+  --color-nord2: #434c5e;
+  --color-nord3: #4c566a;
+  --color-nord4: #d8dee9;
+  --color-nord5: #e5e9f0;
+  --color-nord6: #eceff4;
+  --color-nord7: #8fbcbb;
+  --color-nord8: #88c0d0;
+  --color-nord9: #81a1c1;
+  --color-nord10: #5e81ac;
+  --color-nord11: #bf616a;
+  --color-nord12: #d08770;
+  --color-nord13: #ebcb8b;
+  --color-nord14: #a3be8c;
+  --color-nord15: #b48ead;
+  --color-bright-red: #c53541;
+  --color-tan: #b48554;
+  --color-brand-primary: #ecdd8b;
+  /* Saturate standard Nord colors by +30% */
+  --color-nord7-sat: #7bd0ce;
+  --color-nord8-sat: #7ac8de;
+  --color-nord9-sat: #6ea1d4;
+  --color-nord10-sat: #457ec5;
+  --color-nord11-sat: #d24e5a;
+  --color-nord12-sat: #de8062;
+  --color-nord13-sat: #f1cd85;
+  --color-nord14-sat: #a1d178;
+  --color-nord15-sat: #ca77bb;
+
   /* utils */
   --rem-base: 18; /* used to compute rem value from desired pixel value (e.g., calc(18 / var(--rem-base) * 1rem) = 18px) */
   --viewport-height: calc(100 * var(--vh, 1vh)); /* used to represent a tunable value of 100vh */
@@ -39,7 +68,7 @@
   --scrollbar-thumb-color: var(--color-gray-10);
   --scrollbar_hover-thumb-color: #9c9c9c;
   /* navbar */
-  --navbar-background: var(--color-jet-80);
+  --navbar-background: var(--color-nord0); /* --color-jet-80 */
   --navbar-font-color: var(--color-white);
   --navbar-heading-font-color: var(--color-gray-70);
   --navbar-heading-font-weight: var(--body-font-weight-bold);
@@ -58,7 +87,7 @@
   --nav-background: var(--panel-background);
   --nav-border-color: var(--color-gray-10);
   --nav-line-height: 1.35;
-  --nav-heading-font-color: var(--color-brand-primary);
+  --nav-heading-font-color: var(--color-bright-red);
   --nav-muted-color: var(--color-gray-70);
   --nav-muted-icon-filter: invert(36.5%); /* matches --color-gray-70 */
   --nav-panel-divider-color: var(--color-smoke-90);
@@ -75,7 +104,7 @@
   /* admonitions (see https://coolors.co/802392-e40046-2d7dd2-43b929-ff7700) */
   --caution-color: #802392;
   --caution-on-color: var(--color-white);
-  --important-color: var(--color-brand-primary);
+  --important-color: var(--color-bright-red);
   --important-on-color: var(--color-white);
   --note-color: #2d7dd2;
   --note-on-color: var(--color-white);
@@ -131,7 +160,7 @@
   --quote-border-color: var(--color-gray-70);
   --quote-font-color: var(--color-gray-70);
   --quote-attribution-font-color: var(--color-gray-30);
-  --sidebar-background: var(--color-smoke-90);
+  --sidebar-background: var(--color-nord4); /* was --color-smoke-90 */
   --table-border-color: var(--panel-border-color);
   --table-stripe-background: var(--panel-background);
   --table-footer-background: linear-gradient(to bottom, var(--color-smoke-70) 0%, var(--color-white) 100%);
