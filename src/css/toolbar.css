@@ -85,3 +85,7 @@
 .toolbar .edit-this-page a {
   color: var(--toolbar-muted-color);
 }
+
+.download-link-icon {
+  filter: var(--nav-muted-icon-filter);
+}

@@ -6,6 +6,7 @@ Author Name
 :!table-caption:
 :page-pagination:
 :page-component-order: *, abc
+:page-downloadlink: index.pdf
 
 [.float-group]
 --
